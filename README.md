@@ -2,7 +2,7 @@
 
 Ferramenta para execução de análises evolutivas com os algoritmos NSGA-II e SPEA-2 em simulações computacionais termoenergéticas com o EnergyPlus.
 
-![Screenshot](https://imgur.com/2MsQPS0)
+![Screenshot](https://i.imgur.com/2MsQPS0.png)
 
 
 Publicado em 2020 no XVIII Encontro Nacional de Tecnologia do Ambiente Construído (ENTAC). 
