@@ -5,4 +5,4 @@ Ferramenta para execução de análises evolutivas com os algoritmos NSGA-II e S
 ![Screenshot](https://i.imgur.com/2MsQPS0.png)
 
 
-Publicado em 2020 no XVIII Encontro Nacional de Tecnologia do Ambiente Construído (ENTAC). 
+Publicado em 2021 na Revista de Arquitetura, Cidade e Contemporaneidade (PIXO)
